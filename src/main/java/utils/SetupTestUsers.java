@@ -16,7 +16,7 @@ public class SetupTestUsers {
     
     //throw new UnsupportedOperationException("REMOVE THIS LINE, WHEN YOU HAVE READ WARNING");
     
-    /*
+    
     em.getTransaction().begin();
     Role userRole = new Role("user");
     Role adminRole = new Role("admin");
@@ -33,7 +33,7 @@ public class SetupTestUsers {
     em.persist(admin);
     em.persist(both);
     em.getTransaction().commit();
-    */
+    
    
   }
 
